@@ -1,0 +1,328 @@
+{
+    "perfumes": [
+        {
+            "id": 1,
+            "name": "Versace Pour Homme",
+            "url": "https://www.fragrantica.com/perfume/Versace/Versace-Pour-Homme-2318.html",
+            "image": "https://fimgs.net/mdimg/perfume/375x500.2318.jpg",
+            "color": "#3B82F6",
+            "rating": {
+                "love": 100,
+                "like": 82.4799,
+                "ok": 14.6209,
+                "dislike": 11.2942,
+                "hate": 1.80415
+            },
+            "seasonality": {
+                "winter": 10.0928,
+                "spring": 78.7098,
+                "summer": 100,
+                "fall": 24.0355,
+                "day": 93.2928,
+                "night": 21.6744
+            },
+            "longevity": {
+                "very weak": 462,
+                "weak": 1724,
+                "moderate": 8323,
+                "long lasting": 2070,
+                "eternal": 361
+            },
+            "sillage": {
+                "intimate": 2117,
+                "moderate": 8570,
+                "strong": 1676,
+                "enormous": 428
+            },
+            "ratingScore": 267.5774
+        },
+        {
+            "id": 2,
+            "name": "Montblanc Legend Spirit",
+            "url": "https://www.fragrantica.com/perfume/Montblanc/Legend-Spirit-33443.html",
+            "image": "https://fimgs.net/mdimg/perfume/375x500.33443.jpg",
+            "color": "#10B981",
+            "rating": {
+                "love": 74.4959,
+                "like": 100,
+                "ok": 21.5804,
+                "dislike": 12.0981,
+                "hate": 1.85286
+            },
+            "seasonality": {
+                "winter": 11.9613,
+                "spring": 90.3343,
+                "summer": 100,
+                "fall": 30.4068,
+                "day": 94.6839,
+                "night": 20.3786
+            },
+            "longevity": {
+                "very weak": 133,
+                "weak": 710,
+                "moderate": 3906,
+                "long lasting": 645,
+                "eternal": 65
+            },
+            "sillage": {
+                "intimate": 861,
+                "moderate": 3773,
+                "strong": 615,
+                "enormous": 139
+            },
+            "ratingScore": 233.18798
+        },
+        {
+            "id": 3,
+            "name": "Hugo Boss Bottled Unlimited",
+            "url": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-Unlimited-22528.html",
+            "image": "https://fimgs.net/mdimg/perfume/375x500.22528.jpg",
+            "color": "#F59E0B",
+            "rating": {
+                "love": 66.5461,
+                "like": 100,
+                "ok": 19.2586,
+                "dislike": 11.7541,
+                "hate": 1.7179
+            },
+            "seasonality": {
+                "winter": 8.8647,
+                "spring": 89.1135,
+                "summer": 100,
+                "fall": 24.4946,
+                "day": 97.1229,
+                "night": 16.6407
+            },
+            "longevity": {
+                "very weak": 92,
+                "weak": 336,
+                "moderate": 862,
+                "long lasting": 154,
+                "eternal": 32
+            },
+            "sillage": {
+                "intimate": 371,
+                "moderate": 918,
+                "strong": 164,
+                "enormous": 90
+            },
+            "ratingScore": 217.9023
+        },
+        {
+            "id": 4,
+            "name": "French Avenue Aether",
+            "url": "https://www.fragrantica.com/perfume/French-Avenue/Aether-94702.html",
+            "image": "https://fimgs.net/mdimg/perfume/375x500.94702.jpg",
+            "color": "#8B5CF6",
+            "rating": {
+                "love": 100,
+                "like": 50.7126,
+                "ok": 18.6461,
+                "dislike": 7.83848,
+                "hate": 4.15677
+            },
+            "seasonality": {
+                "winter": 9.16515,
+                "spring": 91.9238,
+                "summer": 100,
+                "fall": 35.0272,
+                "day": 90.9256,
+                "night": 22.1416
+            },
+            "longevity": {
+                "very weak": 66,
+                "weak": 138,
+                "moderate": 781,
+                "long lasting": 210,
+                "eternal": 32
+            },
+            "sillage": {
+                "intimate": 199,
+                "moderate": 813,
+                "strong": 142,
+                "enormous": 17
+            },
+            "ratingScore": 234.56058
+        },
+        {
+            "id": 5,
+            "name": "Montblanc Explorer Platinum",
+            "url": "https://www.fragrantica.com/perfume/Montblanc/Explorer-Platinum-81392.html",
+            "image": "https://fimgs.net/mdimg/perfume/375x500.81392.jpg",
+            "color": "#EC4899",
+            "rating": {
+                "love": 100,
+                "like": 84.2407,
+                "ok": 40.8309,
+                "dislike": 29.9427,
+                "hate": 14.6132
+            },
+            "seasonality": {
+                "winter": 49.7115,
+                "spring": 100,
+                "summer": 86.25,
+                "fall": 88.8462,
+                "day": 97.4038,
+                "night": 56.7308
+            },
+            "longevity": {
+                "very weak": 20,
+                "weak": 69,
+                "moderate": 532,
+                "long lasting": 559,
+                "eternal": 73
+            },
+            "sillage": {
+                "intimate": 110,
+                "moderate": 785,
+                "strong": 307,
+                "enormous": 32
+            },
+            "ratingScore": 225.0716
+        },
+        {
+            "id": 6,
+            "name": "Zara Man Silver",
+            "url": "https://www.fragrantica.com/perfume/Zara/Man-Silver-43469.html",
+            "image": "https://fimgs.net/mdimg/perfume/375x500.43469.jpg",
+            "color": "#6B7280",
+            "rating": {
+                "love": 28.8043,
+                "like": 100,
+                "ok": 20.9239,
+                "dislike": 10.0543,
+                "hate": 0.815217
+            },
+            "seasonality": {
+                "winter": 23.6842,
+                "spring": 92.3977,
+                "summer": 88.8889,
+                "fall": 53.2164,
+                "day": 100,
+                "night": 42.6901
+            },
+            "longevity": {
+                "very weak": 52,
+                "weak": 145,
+                "moderate": 225,
+                "long lasting": 47,
+                "eternal": 9
+            },
+            "sillage": {
+                "intimate": 151,
+                "moderate": 254,
+                "strong": 52,
+                "enormous": 25
+            },
+            "ratingScore": 145.923866
+        },
+        {
+            "id": 7,
+            "name": "Burberry Hero",
+            "url": "https://www.fragrantica.com/perfume/Burberry/Hero-68627.html",
+            "image": "https://fimgs.net/mdimg/perfume/375x500.68627.jpg",
+            "color": "#EF4444",
+            "rating": {
+                "love": 78.46,
+                "like": 100,
+                "ok": 49.9025,
+                "dislike": 16.5692,
+                "hate": 5.36062
+            },
+            "seasonality": {
+                "winter": 50.5591,
+                "spring": 96.9649,
+                "summer": 78.3546,
+                "fall": 98.4026,
+                "day": 100,
+                "night": 51.9169
+            },
+            "longevity": {
+                "very weak": 65,
+                "weak": 300,
+                "moderate": 1000,
+                "long lasting": 187,
+                "eternal": 38
+            },
+            "sillage": {
+                "intimate": 382,
+                "moderate": 985,
+                "strong": 133,
+                "enormous": 17
+            },
+            "ratingScore": 229.62956
+        },
+        {
+            "id": 8,
+            "name": "Zara Vibrant Leather Elixir",
+            "url": "https://www.fragrantica.com/perfume/Zara/Vibrant-Leather-Elixir-106422.html",
+            "image": "https://fimgs.net/mdimg/perfume/375x500.106422.jpg",
+            "color": "#14B8A6",
+            "rating": {
+                "love": 100,
+                "like": 67.1053,
+                "ok": 14.4737,
+                "dislike": 3.94737,
+                "hate": 3.94737
+            },
+            "seasonality": {
+                "winter": 26.1364,
+                "spring": 97.7273,
+                "summer": 100,
+                "fall": 82.9545,
+                "day": 96.5909,
+                "night": 54.5455
+            },
+            "longevity": {
+                "very weak": 7,
+                "weak": 13,
+                "moderate": 72,
+                "long lasting": 22,
+                "eternal": 1
+            },
+            "sillage": {
+                "intimate": 16,
+                "moderate": 71,
+                "strong": 22,
+                "enormous": 2
+            },
+            "ratingScore": 255.26319
+        },
+        {
+            "id": 9,
+            "name": "Spicebomb Infrared EDP",
+            "url": "https://www.fragrantica.com/perfume/Viktor-Rolf/Spicebomb-Infrared-Eau-de-Parfum-81409.html",
+            "image": "https://fimgs.net/mdimg/perfume/375x500.81409.jpg",
+            "color": "#F97316",
+            "rating": {
+                "love": 100,
+                "like": 47.0209,
+                "ok": 19.3237,
+                "dislike": 6.44122,
+                "hate": 4.34783
+            },
+            "seasonality": {
+                "winter": 100,
+                "spring": 25.3463,
+                "summer": 10.1108,
+                "fall": 90.1662,
+                "day": 40.7202,
+                "night": 87.3961
+            },
+            "longevity": {
+                "very weak": 12,
+                "weak": 36,
+                "moderate": 243,
+                "long lasting": 385,
+                "eternal": 31
+            },
+            "sillage": {
+                "intimate": 54,
+                "moderate": 326,
+                "strong": 275,
+                "enormous": 25
+            },
+            "ratingScore": 231.88402
+        }
+    ]
+}
